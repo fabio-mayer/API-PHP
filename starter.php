@@ -10,7 +10,7 @@ try {
     $ch = curl_init();
     // set url
     curl_setopt($ch, CURLOPT_URL, "https://api.api.ai/v1/query?v=20150910&e=WELCOME&lang=en&sessionId=" . $sessionID);
-    curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json', 'Authorization: Bearer CLIENT_ACCESS_TOKEN'));
+    curl_setopt($ch, CURLOPT_HTTPHEADER, array('Content-Type: application/json', 'Authorization: Bearer f26174c1779c4ad6b7285b4cabfedfd7'));
     //return the transfer as a string
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
     // $output contains the output string
