@@ -9,7 +9,7 @@
     
 </head>
 <body>
-
+<div class="top" id="top"><img id="agent-avatar" src="https://console.dialogflow.com/api-client/assets/img/logo-short.png" srcset="https://console.dialogflow.com/api-client/assets/img/logo-short.png 2x, https://console.dialogflow.com/api-client/assets/img/logo-short.png 1x"> BotIEL</div>
 <div class="topstrip" id="topstrip">Powered by <a href="https://www.miningbusinessdata.com" style="color:#d3d3d3"> MiningBusinessData</a>&nbsp;&nbsp;&nbsp;</div>
 <div class="topbar" id="chat-text">
 </div>
