@@ -16,7 +16,7 @@
 <form>
     <span style="width:100%;">
         <input class="inputbox"
-               placeholder="Write something and press Enter..." id="message" name="date" value="">
+               placeholder="Escreva algo e pressione a tecla 'Enter'..." id="message" name="date" value="">
     </span>
     <input name="submit" type="hidden" value="Submit">
 </form>
