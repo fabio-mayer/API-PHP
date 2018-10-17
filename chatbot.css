@@ -1,10 +1,10 @@
 .topstrip{
     width:99%;
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
     position:fixed;
     top:0px;
     height:50px;
-    background-color: black;
+    background-color: #2b313f;
     color:white;
     text-align: right;
     font-size: 16px;
@@ -13,33 +13,49 @@
 .topbar{
     display:block;
     width:100%;
-    overflow-y: scroll;
+    /*overflow-y: scroll;*/
     position:fixed;
     top:50px;
     bottom:65px;
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 12px;
 }
 .rounded-div-bot{
     display:inline-block;
-    clear:left;
+    /*clear:left;*/
     max-width:80%;
     border-radius: 3px;
-    border: .75pt solid rgba(0, 0, 0, .1);
-    background-color: lightgreen;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 5px;    
+    border: 1px solid #eee;
+    background-color: #EFEFEF;
+    padding: 15px 25px;
     float:right;
     margin: 10px;
-    padding:5px;
-    min-height: 1em;
+    padding: 15px 25px; 
+    min-height: 1em;    
+    font-size: 16px;
+    clear: both;
 }
 .rounded-div{
     display:inline-block;
-    clear:right;
+    /*clear:right;    
+    padding:5px;*/
     max-width:80%;
     border-radius: 3px;
-    margin: 10px;
-    padding:5px;
-    border: .75pt solid rgba(0, 0, 0, .1);
-    background-color: #eeeeee;
-    float:left;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-bottom: 5px;    
+    border: 1px solid #eee;
+    background-color: #EFEFEF;
+    padding: 15px 25px;
+    float:left; 
+    font-size: 16px;
+    clear: both;    
 }
 .inputbox{
     outline:none;
