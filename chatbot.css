@@ -20,6 +20,7 @@
 .toptext{
     display: table-cell;
     vertical-align: middle;
+    padding-right: 20px;
 }
 
 .toptextname{
