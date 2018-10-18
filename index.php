@@ -13,7 +13,10 @@
     <div class="topimage" id="topimage">
         <img id="agent-avatar" src="https://console.dialogflow.com/api-client/assets/img/logo-short.png" srcset="https://console.dialogflow.com/api-client/assets/img/logo-short.png 2x, https://console.dialogflow.com/api-client/assets/img/logo-short.png 1x">
     </div>  
-    BOTIEL
+   <div class="toptext">
+            <div class="toptextname">Estágio Responsável</div>
+            <div class="toptextdescription">Tire suas dúvidas sobre vagas de estágio, legislação e como se candidatar</div>
+   </div>
 </div>   
 <div class="topstrip" id="topstrip">Powered by <a href="https://www.miningbusinessdata.com" style="color:#d3d3d3"> MiningBusinessData</a>&nbsp;&nbsp;&nbsp;
 </div>
