@@ -55,6 +55,19 @@ vertical-align: middle;
 text-align: center;
 }
 
+
+.topstrippowered{
+    color: #b7bbc4;
+    text-transform: uppercase;
+    float: right;
+    vertical-align: middle;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-right: 10px;
+    font-size: 10px;
+    margin-left: -10px;
+}
+
 .topstrip{
     position: fixed;
     left: 0;
