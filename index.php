@@ -18,7 +18,10 @@
             <div class="toptextdescription">Tire suas dúvidas sobre vagas de estágio, legislação e como se candidatar</div>
    </div>
 </div>   
-<div class="topstrip" id="topstrip">Powered by <a href="https://www.miningbusinessdata.com" style="color:#d3d3d3"> MiningBusinessData</a>&nbsp;&nbsp;&nbsp;
+<div class="topstrip" id="topstrip">
+    <div class="topstrippowered"> Powered by <a href="https://www.miningbusinessdata.com" style="color:#d3d3d3"> MiningBusinessData</a>&nbsp;&nbsp;&nbsp;
+    </div>
+    
 </div>
 <div class="topbar" id="chat-text">
 </div>
