@@ -17,6 +17,31 @@
     overflow-y: scroll;*/
 }
 
+.toptext{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.toptextname{
+    padding-left: 80px;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.toptextdescription{
+    color: #b7bbc4;
+    padding-left: 80px;
+    padding-top: 7px;
+    font-size: 12px;
+    display: -webkit-box;
+    max-height: 24px;
+    margin: 0 auto;
+    line-height: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 .topimage{
 position: absolute;
 top: 20px;
